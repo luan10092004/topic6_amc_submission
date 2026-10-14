@@ -1,0 +1,4 @@
+﻿Model,Rounds,Samples per Round,Robust Median Inference Latency (ms/sample),Median of Round Means (ms/sample),Median of Round P95 (ms/sample),Median Measured Throughput (samples/s),Min Round Median (ms/sample),Max Round Median (ms/sample),Stability Ratio,Parameters
+IQ CNN 1D,7,1000,0.4117,0.47208140000000004,0.81761,2113.1521108170778,0.4018,0.45935,1.1432304629168741,36968
+Spectrogram CNN 2D,7,1000,0.60845,0.6876973000000001,1.05842,1451.5536704711888,0.6004,0.7009,1.167388407728181,24040
+Constellation Density CNN 2D,7,1000,0.6194500000000001,0.6537202,0.839525,1527.2279545026574,0.6141,0.6948,1.1314118221787983,24040

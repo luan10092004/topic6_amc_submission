@@ -1,0 +1,4 @@
+﻿Model,Samples,Median E2E latency (ms/sample),Mean E2E latency (ms/sample),P95 E2E latency (ms/sample),Minimum E2E latency (ms/sample),Throughput (samples/s)
+IQ CNN 1D,1000,0.51495,0.5847508,0.8154849999999999,0.4252,1941.936110301971
+Spectrogram CNN 2D,1000,1.33895,1.9312598000000003,3.909659999999995,1.0054,746.8538780387616
+Constellation Density CNN 2D,1000,1.01305,1.313064,2.2546,0.8257,987.1181086817038

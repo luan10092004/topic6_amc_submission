@@ -1,0 +1,4 @@
+﻿Model,Accuracy,Macro-F1,Inference Median (ms/sample),Inference P95 (ms/sample),E2E Median (ms/sample),E2E P95 (ms/sample),Parameters,Model Size (MB),Model Tensor Memory (MB)
+IQ CNN 1D,0.7584,0.7548,0.4117,0.81761,0.515,0.8155,36968,0.15032,0.14275
+Spectrogram CNN 2D,0.5905,0.5669,0.60845,1.05842,1.339,3.9097,24040,0.1004,0.09258
+Constellation Density CNN 2D,0.6104,0.6157,0.61945,0.839525,1.0131,2.2546,24040,0.10029,0.09258
